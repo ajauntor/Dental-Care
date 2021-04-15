@@ -13,6 +13,7 @@ const InfoCard = ({info}) => {
 
             <div>
                 <h6>{info.title}</h6>
+                <small>{info.description}</small>
             </div>
             </div>
             
