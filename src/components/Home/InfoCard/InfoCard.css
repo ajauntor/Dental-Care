@@ -4,3 +4,14 @@
 .info-dark{
     background-color: #3A4256;
 }
+.info-icon{
+    font-size: 30px;
+}
+.info-container{
+    height: 100px;
+    padding: 30px;
+    border-radius: 5px;
+}
+.info-card{
+    padding: 0px 5px;
+}
